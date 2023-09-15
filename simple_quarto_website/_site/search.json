@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Thank you for coming here.\n\n\nRebecca JI\n\n\nI come from China."
+  },
+  {
+    "objectID": "about.html#author",
+    "href": "about.html#author",
+    "title": "About",
+    "section": "",
+    "text": "Rebecca JI\n\n\nI come from China."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is Jing from DSAN 2023.\n\n\n\n\nI come from China.\n\n\n\n\n\nHere is Column 1.\n\nHere is Column 2.\n\n\n\n\n\n\nHI\nHI WORLD\nHELLO WORLD\n\n\n\n\n\nAcusefive First world round concert Price\n\n\nNew York\nSan francisco\nLos angeles\nToronto\n\n\n\n\n88\n78\n88\n98\n\n\n318\n358\n338\n318\n\n\n\n\n\n\ninline math LaTex equation: \\(E = mc^{2}\\)\nnon inline-math LaTex equation: \\[\n\\cos (2\\theta) = \\cos^2 \\theta - \\sin^2 \\theta\n\\]\n\n\n\nThis is a footnote1\n\n\n\nThis is my professional look: \nThis is my travel in kyoto: \nHere’s a video\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n\n\n\n\n\n\n\n\n(LeCun et al. 1995) (Le Cun et al. 1989)"
+  },
+  {
+    "objectID": "index.html#hometown",
+    "href": "index.html#hometown",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "I come from China.\n\n\n\n\n\nHere is Column 1.\n\nHere is Column 2.\n\n\n\n\n\n\nHI\nHI WORLD\nHELLO WORLD\n\n\n\n\n\nAcusefive First world round concert Price\n\n\nNew York\nSan francisco\nLos angeles\nToronto\n\n\n\n\n88\n78\n88\n98\n\n\n318\n358\n338\n318\n\n\n\n\n\n\ninline math LaTex equation: \\(E = mc^{2}\\)\nnon inline-math LaTex equation: \\[\n\\cos (2\\theta) = \\cos^2 \\theta - \\sin^2 \\theta\n\\]\n\n\n\nThis is a footnote1\n\n\n\nThis is my professional look: \nThis is my travel in kyoto: \nHere’s a video\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n\n\n\n\n\n\n\n\n(LeCun et al. 1995) (Le Cun et al. 1989)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the footnote.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#professional-look",
+    "href": "slides/slides.html#professional-look",
+    "title": "What I did for lab 1.2",
+    "section": "Professional look",
+    "text": "Professional look"
+  },
+  {
+    "objectID": "slides/slides.html#travel-look",
+    "href": "slides/slides.html#travel-look",
+    "title": "What I did for lab 1.2",
+    "section": "Travel look",
+    "text": "Travel look"
+  },
+  {
+    "objectID": "slides/slides.html#citation",
+    "href": "slides/slides.html#citation",
+    "title": "What I did for lab 1.2",
+    "section": "Citation",
+    "text": "Citation\n(LeCun et al. 1995) (Le Cun et al. 1989)"
+  },
+  {
+    "objectID": "slides/slides.html#code",
+    "href": "slides/slides.html#code",
+    "title": "What I did for lab 1.2",
+    "section": "Code",
+    "text": "Code\nimport matplotlib.pyplot as plt\n\nx = [1, 1]\nplt.plot(x)\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#outcome",
+    "href": "slides/slides.html#outcome",
+    "title": "What I did for lab 1.2",
+    "section": "outcome",
+    "text": "outcome"
+  },
+  {
+    "objectID": "slides/slides.html#citation-1",
+    "href": "slides/slides.html#citation-1",
+    "title": "What I did for lab 1.2",
+    "section": "Citation",
+    "text": "Citation\n\n\n\n\n\n\nLe Cun, Yann, Lawrence D Jackel, Brian Boser, John S Denker, Hans Peter Graf, Isabelle Guyon, Don Henderson, Richard E Howard, and William Hubbard. 1989. “Handwritten Digit Recognition: Applications of Neural Network Chips and Automatic Learning.” IEEE Communications Magazine 27 (11): 41–46.\n\n\nLeCun, Yann, Larry Jackel, Leon Bottou, A Brunot, Corinna Cortes, John Denker, Harris Drucker, et al. 1995. “Comparison of Learning Algorithms for Handwritten Digit Recognition.” In International Conference on Artificial Neural Networks, 60:53–60. 1. Perth, Australia."
+  }
+]

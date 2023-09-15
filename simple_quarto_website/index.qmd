@@ -1,0 +1,79 @@
+---
+title: "simple_quarto_website"
+bibliography:  reference.bib
+toc: true
+---
+# About me
+> This is Jing from DSAN 2023.
+
+## Hometown
+> I come from China. 
+
+
+### Two Column Section
+
+:::: {.columns}
+::: {.column}
+Here is Column 1.
+:::
+::: {.column}
+Here is Column 2. 
+:::
+::::
+
+### Bulleted List
+
+- HI
+- HI WORLD
+- HELLO WORLD
+
+
+### Table
+| New York | San francisco | Los angeles | Toronto |
+|---------|:-----|------:|:------:|
+| 88    | 78  |  88 |   98   |
+| 318 | 358  |  338 |  318   |
+
+: Acusefive First world round concert Price
+
+### Equations
+
+inline math LaTex equation: 
+$E = mc^{2}$
+
+non inline-math LaTex equation:
+$$
+\cos (2\theta) = \cos^2 \theta - \sin^2 \theta
+$$
+
+
+### Foot-note
+This is a footnote[^1]
+
+[^1]: This is the footnote.
+
+
+### Images and Videos
+
+This is my professional look:
+![Rebecca's Photo](images/photo1.jpeg)
+
+This is my travel in kyoto:
+![Rebecca's Photo](images/photo2.jpeg)
+
+
+Here's a video
+{{< video https://www.youtube.com/watch?v=y5VcxMOnj3M >}}
+
+### Mermaid Diagram
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+### Citation
+[@lecun1995comparison]
+[@le1989handwritten]
